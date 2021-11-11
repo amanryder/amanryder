@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanryder
 - 👀 I’m interested in Web and Mobile Development.
-- 📫 How to reach me at getahunamanuel@gmail.com
+- 📫 You can reach me at getahunamanuel@gmail.com
 
 <!---
 amanryder/amanryder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
